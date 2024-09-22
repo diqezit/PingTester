@@ -23,6 +23,8 @@ The settings are saved in PingTestSettings.ini, which can be edited manually.
 Requirements
 .NET Framework 4.7.2
 
+Fake viruses 
+https://www.virustotal.com/gui/file/9c03e8d898170d0df0ad1d210f1540a94cc0f40320f26431bc3c9a284789b0c9/detection
 
 ===================================================================================================================================================
 
@@ -50,3 +52,5 @@ Ping Test Tool — это приложение для выполнения пи�
 Настройки сохраняются в PingTestSettings.ini, который можно отредактировать вручную.
 Требования
 .NET Framework 4.7.2
+
+https://www.virustotal.com/gui/file/9c03e8d898170d0df0ad1d210f1540a94cc0f40320f26431bc3c9a284789b0c9/detection

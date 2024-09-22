@@ -21,7 +21,7 @@ Download and install the application.
 If there is no PingTestSettings.ini file in the root directory of the program, the program will create it on the first run.
 The settings are saved in PingTestSettings.ini, which can be edited manually.
 Requirements
-.NET Framework 4.7
+.NET Framework 4.7.2
 
 
 ===================================================================================================================================================
@@ -49,4 +49,4 @@ Ping Test Tool — это приложение для выполнения пи�
 Если в корневом каталоге программы нет файла PingTestSettings.ini, программа создаст его при первом запуске.
 Настройки сохраняются в PingTestSettings.ini, который можно отредактировать вручную.
 Требования
-.NET Framework
+.NET Framework 4.7.2

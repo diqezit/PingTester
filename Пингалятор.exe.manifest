@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Пингалятор.exe" size="74144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Пингалятор.exe" size="75680">
       <assemblyIdentity name="Пингалятор" version="0.0.2.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>m/zBPWMFuQUWNHugbMe6frhKwUD27tWVOajuCLOOlGM=</dsig:DigestValue>
+        <dsig:DigestValue>UEoXudcjaV4d0Hi8py/6BXPSrXZXB1VMsiJM9xsi2FY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

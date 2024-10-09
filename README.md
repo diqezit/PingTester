@@ -1,3 +1,5 @@
+THIS IS OUTDATED PROGRAM           THIS IS OUTDATED PROGRAM           THIS IS OUTDATED PROGRAM
+
 Ping Test Tool
 Description
 Ping Test Tool is an application for performing ping tests to measure the response time to a specified host (e.g. a website) and display the results in text and graphical form. The program saves test results to a log file and supports setting parameters via an INI file.
@@ -27,6 +29,7 @@ Fake viruses
 https://www.virustotal.com/gui/file/9c03e8d898170d0df0ad1d210f1540a94cc0f40320f26431bc3c9a284789b0c9/detection
 
 ===================================================================================================================================================
+ЭТО УСТАРЕВШАЯ ПРОГРАММА         ЭТО УСТАРЕВШАЯ ПРОГРАММА       ЭТО УСТАРЕВШАЯ ПРОГРАММА
 
 Ping Test Tool
 Описание
